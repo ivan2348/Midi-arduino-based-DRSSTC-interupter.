@@ -2,7 +2,10 @@
 
 this is a repository for an Atmega 328p based Dual Resonant 
 Solid State Tesla Coil interupter that supports a monophonic
-midi input from hairless midi serial connection.
+midi input from hairless midi serial connection. I am not that 
+smart so if anyone could make this polyhponic, that would be 
+cool, this is a pretty basic implemintation me and chat gpt
+wrote
 
 ## Features
 - MIDI input from USB through hairless midi.
