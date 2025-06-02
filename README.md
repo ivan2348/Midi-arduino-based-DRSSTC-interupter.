@@ -13,6 +13,6 @@ midi input from hairless midi serial connection.
 
 ## Getting Started
 - [View the code Here](MonophonicInterupter.ino)
-- [Read the full documentation](documentation)
+- [Read the full documentation](documentation.md)
 
 *Created by [ivan2348](https://github.com/ivan2348)*
