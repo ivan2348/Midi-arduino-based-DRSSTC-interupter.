@@ -12,3 +12,12 @@ is pin 9. You can attach a fiber optic transmitter or a bnc connector or other s
 Make sure to shield the interupter with foil tape or metal enclosure and you can also put a ferrite bead around the wire going to 
 the tesla coil if you are using a regular wire as well as an optocoupler at the tesla coil. As stated before a fiber optic 
 connection is preffered due too complete isolation and no need for ferrite beads or extra optocouplers.
+
+# UI
+the UI is pretty simple, when you first turn on the interupter, you will see the burst mode page appear. You can press the 
+select button to select different options indicated by a star. When the star is next to the page name, you are able to change modes,
+pressing previous will take you to the single pulse mode, pressing next from the burst mode will take you to the continuous 
+interuption mode, and pressing next again will take you to the midi mode. To exit the midi mode, you press the select button. When
+in Burst mode, you can press the select button to cycle through five options, by default the name of the pasge will be selected, next
+is on time in microseconds, Bps in hertz, burst on time, and burst off time. every other page is the same except with two options,
+frequency and ontime, with midi mode not having frequency.
